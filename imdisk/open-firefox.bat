@@ -1,0 +1,1 @@
+start /b "Firefox" "C:\Program Files\Mozilla Firefox\firefox.exe"
